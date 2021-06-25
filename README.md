@@ -7,7 +7,7 @@ This repository includes GLOBIOM-forest model documentation and some selected re
 
 The source code of GLOBIOM-forest model will be publised when the source code for [GLOBIOM model](https://iiasa.github.io/GLOBIOM/) become freely available. Running the model requires [GAMS](https://www.gams.com/) with a license for the CPLEX and CONOPT solvers.
 
-###  Questions
+##  Questions
 
-Any questions concerning GLOBIOM-forest model can be directly to pekka.lauri@iiasa.ac.at
+Any questions concerning GLOBIOM-forest model can be addressed to pekka.lauri@iiasa.ac.at
 
