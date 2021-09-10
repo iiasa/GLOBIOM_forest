@@ -5,11 +5,15 @@ This repository includes GLOBIOM-forest model documentation and some selected re
 
 ## Applications
 
-GLOBIOM-forest is used sofar to analyze:
+1) Lauri, P., Forsell ,N., Di Fulvio, F., et al., 2021, Material substitution between coniferous, non-coniferous and recycled biomass – Impacts on forest industry raw material use and regional competitiveness, Forest Policy and Economics 132, [102588](https://www.sciencedirect.com/science/article/pii/S1389934121001945?via%3Dihub)
+[Results in GAMS gdx-format](https://github.com/iiasa/GLOBIOM_forest/blob/main/Material_substitution_FPE2021.gdx)
+[Results in EXCEL xlsx-format](https://github.com/iiasa/GLOBIOM_forest/blob/main/Material_substitution_FPE2021.xlsx)
+[Documentation of model](https://github.com/iiasa/GLOBIOM_forest/blob/main/GLOBIOM_forest_documentation.pdf)
 
-1) Lauri, P., Forsell ,N., Di Fulvio, F., et al., 2021, [Material substitution between coniferous, non-coniferous and recycled biomass – Impacts on forest industry raw material use and regional competitiveness], Forest Policy and Economics 132, 102588 (https://www.sciencedirect.com/science/article/pii/S1389934121001945?via%3Dihub)
-2)   [EU biodiversity strategy](https://github.com/iiasa/GLOBIOM_forest/blob/main/IBFRA_2021_Pekka_Lauri.pptx) 
-3)   [Transition to alternative forest managements in EU level](https://cordis.europa.eu/project/id/676754/results).
+2) Impacts of EU biodiversity strategy on EU forest sector[Presentation in IBFRA2021](https://github.com/iiasa/GLOBIOM_forest/blob/main/IBFRA_2021_Pekka_Lauri.pptx) 
+3) [ALTERFOR project](https://cordis.europa.eu/project/id/676754)
+[Policy brief](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5d3a7092c&appId=PPGMS)
+[Impact assesment of transition to alternative forest managements in EU level](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5cc9e1397&appId=PPGMS)
 
 ## Source code 
 
