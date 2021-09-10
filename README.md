@@ -25,7 +25,7 @@ This repository includes GLOBIOM-forest model documentation and some selected re
 
      [Policy brief](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5d3a7092c&appId=PPGMS)
 
-     [Impact assesment of transition to alternative forest managements](https://ec.europa.eu/research/participants/documents/downloadPublic documentIds=080166e5cc9e1397&appId=PPGMS)
+     [Impact assesment of alternative forest managements](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5cc9e1397&appId=PPGMS)
 
 ## Source code 
 
