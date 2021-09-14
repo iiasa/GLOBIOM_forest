@@ -25,7 +25,7 @@ This repository includes GLOBIOM-forest model documentation and some selected re
 
      [Policy brief2: Forest management options for the Green Deal](https://alterfor-project.eu/policy-briefs.html)
 
-     [Impact assesment of alternative forest managements](https://github.com/iiasa/GLOBIOM_forest/blob/main/Deliverable 2.1-Impact assessment of FMM for the forest sector.pdf)
+     [Impact assesment of alternative forest managements](https://github.com/iiasa/GLOBIOM_forest/blob/main/Impact_assessment_FMM.pdf)
 
 ## Source code 
 
