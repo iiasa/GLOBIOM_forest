@@ -21,11 +21,11 @@ This repository includes GLOBIOM-forest model documentation and some selected re
    
 3) ALTERFOR project about alternative forest managements in EU 
 
-     [Project webpage](https://cordis.europa.eu/project/id/676754)
+     [Project webpage](https://alterfor-project.eu/)
 
-     [Policy brief](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5d3a7092c&appId=PPGMS)
+     [Policy brief2: Forest management options for the Green Deal](https://alterfor-project.eu/policy-briefs.html)
 
-     [Impact assesment of alternative forest managements](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e5cc9e1397&appId=PPGMS)
+     [Impact assesment of alternative forest managements](https://github.com/iiasa/GLOBIOM_forest/blob/main/Deliverable 2.1-Impact assessment of FMM for the forest sector.pdf)
 
 ## Source code 
 
